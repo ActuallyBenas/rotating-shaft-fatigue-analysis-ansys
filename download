@@ -1,0 +1,22 @@
+# OS / editor / Python cache
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+# ANSYS temporary / generated solver artifacts (archive .wbpz separately)
+*.lock
+*.lck
+*.log
+*.err
+*.out
+*.rst
+*.rth
+*.full
+*.emat
+*.esav
+*.db
+*.mode
+*.file
+_temp/
